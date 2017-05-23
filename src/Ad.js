@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-//import './Add.css'
+import './Ad.css'
 
-class Add extends Component {
+class Ad extends Component {
   render() {
       return (
           <div className="ad">
@@ -20,4 +20,4 @@ class Add extends Component {
     }
 
 
-export default Add
+export default Ad
